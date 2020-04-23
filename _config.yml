@@ -25,10 +25,10 @@ title:                 GNIT WePerfect
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  "GNIT WePerfect".
+  An e-learning and video-conferencing solution from Guru Nanak Institute of Technology college, Kolkata.
 
-# A shorter description for the sidebar.
+# Description for the sidebar.
 tagline:               >
   GNIT WePerfect is an e-learning and video-conferencing solution from Guru Nanak Institute of Technology college, Kolkata.
   It uses the 100% encrypted, completely open source Jitsi Meet platform to deliver the best e-learning and video conferencing 
