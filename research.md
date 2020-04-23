@@ -10,3 +10,6 @@ The study of natural products and metabolism becomes particularly difficult when
 
 ## Evolution of complex traits
 The complexity of eukaryotic metabolic pathways can be substantial, involving complexity from the level of small molecules to the macroscopic tissues dedicated to production of small molecules, leading to the questions of how such phenomena evolved. I am interested in the evolutionary mechanisms, theory, and framework for the evolution of metabolic systems, including genes, enzymes, and specialized cells and tissues.
+
+<iframe width="100%" height="1024" src="https://meet.jit.si/" allow="camera;microphone" /></iframe>
+
