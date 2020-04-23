@@ -1,3 +1,6 @@
+---
+-menu : true
+---
 ## Test The GNIT WePerfect Platform
 
 
