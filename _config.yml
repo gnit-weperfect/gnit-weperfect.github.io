@@ -26,11 +26,11 @@ title:                 GNIT WePerfect
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   "GNIT WePerfect".
-  An e-learning and video-conferencing solution from Guru Nanak Institute of Technology college, Kolkata.
+  An e-learning and video-conferencing platform from Guru Nanak Institute of Technology college, Kolkata.
 
 # Description for the sidebar.
 tagline:               >
-  GNIT WePerfect is an e-learning and video-conferencing solution from Guru Nanak Institute of Technology college, Kolkata.
+  GNIT WePerfect is an e-learning and video-conferencing platform developed by Guru Nanak Institute of Technology college, Kolkata.
   It uses the 100% encrypted, completely open source Jitsi Meet platform to deliver the best e-learning and video conferencing 
   experience.
 # A Jekyll theme with JavaScript powers.
@@ -54,10 +54,10 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             From the Principla's Desk
+    url:               /principal/
   - title:             GNIT WePerfect
-    url:               /research/
-  - title:             About
-    url:               /about/
+    url:               /gnit-weperfect/
   - title:             GNIT Website
     url:               https://gnit.ac.in
 
@@ -70,7 +70,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Timothy R. Fallon © 2019. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+copyright:             GNIT © 2020. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -131,12 +131,13 @@ defaults:
 # ----------------------------------------------------------------------------------------
 
 # Set your Google Analytics id to receive `pageview` events.
-# To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-121214450-1
+# To remove Google Anaylics from your page, comment the line below.
+#google_analytics:      UA-121214450-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                 photocyte-github-io
+# To remove Google Anaylics from your page, comment the line below
+# disqus:                 photocyte-github-io
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
@@ -292,7 +293,7 @@ plugins:
 
 # Used for Twitter cards
 twitter:
-   username:            photocyte
+   username:            gnitsodepur
 
 # Used for Facebook open graph
 # facebook:
@@ -302,11 +303,10 @@ twitter:
 
 # Used on index and about sites
 social:
-   name:                Timothy Fallon
+   name:                GNIT WePerfect
    links:
-     - https://twitter.com/photocyte
-     - https://github.com/photocyte
-     - https://www.fireflybase.org
+     - https://twitter.com/gnitsodepur
+     - https://github.com/gnit-weperfect
 
 
 # Other Plugins
