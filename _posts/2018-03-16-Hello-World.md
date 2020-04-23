@@ -24,3 +24,6 @@ P.S. I've also decided that I will use this page to keep track of the software t
 * [ImageMagick](https://imagemagick.org) is a great way to quickly resize & reencode images. I installed it with macports, and used this [bash script] to resize things (misc_files/post1/resize.sh)
 * If you need to encrypt a file in a non obtrusive way (like for example, my CV) zip command line works pretty well:
 >zip -ej FILE_NAME.zip FILENAME
+
+<iframe width="100%" height="650" src="https://www.google.com" /></iframe>
+
