@@ -54,18 +54,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Publications
-    url:               /publications/
-  - title:             Research
+  - title:             GNIT WePerfect
     url:               /research/
   - title:             About
     url:               /about/
-  - title:             Blog
-    url:               /posts/
-  - title:             Media & Press
-    url:               /media_and_press/
-  - title:             FireflyBase.org
-    url:               http://www.fireflybase.org
+  - title:             GNIT Website
+    url:               https://gnit.ac.in
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
