@@ -4,8 +4,8 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://gnit-weperfect..github.io
-github_username:       gnit-weperfect
+url:                   https://photocyte.github.io
+github_username:       photocyte
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -20,7 +20,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 GNIT WePerfect
+title:                 Timothy R. Fallon
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -35,7 +35,7 @@ tagline:               >
 # Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
-keywords:              [gnit, weperfect]
+keywords:              [biochemistry,natural products,bioinformatics]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -44,8 +44,8 @@ logo:                  https://avatars3.githubusercontent.com/u/12517705?s=400&u
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                GNIT WePerfect
-  email:               gnit.weperfect@gmail.com
+  name:                Timothy Fallon
+  email:               tfallon@ucsd.edu
   # Used by `jekyll-seo-tag`:
   twitter:             photocyte
   picture:             /images/avatar.png
@@ -74,7 +74,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             GNIT © 2020. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+copyright:             Timothy R. Fallon © 2019. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -135,8 +135,8 @@ defaults:
 # ----------------------------------------------------------------------------------------
 
 # Set your Google Analytics id to receive `pageview` events.
-# To remove Google Anaylics from your page, comment the line below.
-# google_analytics:      UA-121214450-1
+# To remove Google Anaylics from your page, remove the line below.
+google_analytics:      UA-121214450-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
