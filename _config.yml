@@ -4,8 +4,8 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://photocyte.github.io
-github_username:       photocyte
+url:                   https://gnit-weperfect.github.io
+github_username:       gnit-weperfect
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -20,50 +20,44 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Timothy R. Fallon
+title:                 GNIT WePerfect
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  "GNIT WePerfect".
+  An e-learning and video-conferencing platform from Guru Nanak Institute of Technology college, Kolkata.
 
 # A shorter description for the sidebar.
 tagline:               >
-  biologist, biochemist, genomics enthusiast, natural products disciple, postdoc @ SIO/UCSD
+  GNIT WePerfect is an e-learning and video-conferencing platform developed by Guru Nanak Institute of Technology college, Kolkata.
+  It uses the 100% encrypted and completely open source Jitsi Meet platform to deliver the best e-learning and video conferencing 
+  experience.
 # A Jekyll theme with JavaScript powers.
 # Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
-keywords:              [biochemistry,natural products,bioinformatics]
+keywords:              [gnit, weperfect]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  https://avatars3.githubusercontent.com/u/12517705?s=400&u=b86c907899da6f1ef01c1898a8153cbc46f24c75&v=4
+logo:                  https://i.imgur.com/70DXWgO.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Timothy Fallon
-  email:               tfallon@ucsd.edu
+  name:                GNIT WePerfect
+  email:               gnit.weperfect@gmail.com
   # Used by `jekyll-seo-tag`:
-  twitter:             photocyte
+  twitter:             gnitsodepur
   picture:             /images/avatar.png
 
 # Add links to the sidebar.
 menu:
-  - title:             Publications
-    url:               /publications/
-  - title:             Research
-    url:               /research/
-  - title:             About
-    url:               /about/
-  - title:             Blog
-    url:               /posts/
-  - title:             Media & Press
-    url:               /media_and_press/
-  - title:             FireflyBase.org
-    url:               http://www.fireflybase.org
+  - title:             GNIT WePerfect
+    url:               /gnit-weperfect/
+  - title:             GNIT Website
+    url:               https://gnit.ac.in
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -74,7 +68,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Timothy R. Fallon © 2019. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+copyright:             GNIT © 2020. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -89,7 +83,7 @@ paginate_path:         /page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/35701506_1935132846517938_8952421413646499840_n3.jpg
-accent_color:          '#4fb1ba'
+accent_color:          '#FFE0B2'
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -135,12 +129,13 @@ defaults:
 # ----------------------------------------------------------------------------------------
 
 # Set your Google Analytics id to receive `pageview` events.
-# To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-121214450-1
+# To remove Google Anaylics from your page, comment the line below.
+#google_analytics:      UA-121214450-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                 photocyte-github-io
+# To remove Google Anaylics from your page, comment the line below
+# disqus:                 photocyte-github-io
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
@@ -296,7 +291,7 @@ plugins:
 
 # Used for Twitter cards
 twitter:
-   username:            photocyte
+   username:            gnitsodepur
 
 # Used for Facebook open graph
 # facebook:
@@ -306,11 +301,10 @@ twitter:
 
 # Used on index and about sites
 social:
-   name:                Timothy Fallon
+   name:                GNIT WePerfect
    links:
-     - https://twitter.com/photocyte
-     - https://github.com/photocyte
-     - https://www.fireflybase.org
+     - https://twitter.com/gnitsodepur
+     - https://github.com/gnit-weperfect
 
 
 # Other Plugins
