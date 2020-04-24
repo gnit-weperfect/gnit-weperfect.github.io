@@ -18,7 +18,7 @@ author1:
    * It is completely open-source, which makes it easier to spot security vulnerabilities adn fixing them.
    * It doesn't require an account to  use  the platform, thhus giving a privacy boost to the users.
 
-{% include netframe.html content="https://meet.jit.si" %}
+{{% include netframe.html content="https://meet.jit.si" %}}
   
  # This photo will be used in the about section
   picture:
