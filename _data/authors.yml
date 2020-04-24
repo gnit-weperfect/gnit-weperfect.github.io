@@ -7,7 +7,7 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
+  GNIT :             |
    GNIT WePerfect is an e-learning and video-conferencing platform developed by Guru  Nanak Institute of Technology, kolkata.
    
    It uses the Jitsi Meet platform to deliver the best e-learning and video-conferencing experience to the students.
