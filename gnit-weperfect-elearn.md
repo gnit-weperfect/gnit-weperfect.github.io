@@ -3,7 +3,9 @@ layout: list
 title: GNIT WePerfect ~ E-learning
 ---
 
-<iframe width="100%" height="1024" src="https://gnitweperfect.gnomio.com/" allowfullscreen="allowfullscreen"/></iframe>
+To access the feature visit [here](https://gnitweperfect.gnomio.com).
+
+![alt text](https://i.imgur.com/Q1jcrlU.png)
   
 
 
