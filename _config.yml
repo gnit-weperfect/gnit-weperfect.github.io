@@ -54,7 +54,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             GNIT WePerfect
+  - title:             About
+    url:               /about/
+  - title:             From the Principal's Desk
+    url:               /principal/
+  - title:             Gnit Weperfect
     url:               /gnit-weperfect/
   - title:             GNIT Website
     url:               https://gnit.ac.in
