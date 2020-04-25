@@ -58,8 +58,10 @@ menu:
     url:               /about/
   - title:             From the Principal's Desk
     url:               /principal/
-  - title:             Gnit Weperfect
-    url:               /gnit-weperfect/
+  - title:             Gnit Weperfect ~ Conference
+    url:               /gnit-weperfect-confer/
+  - title:             Gnit Weperfect ~ E-learning
+    url:               /gnit-weperfect-elearn/
   - title:             GNIT Website
     url:               https://gnit.ac.in
 
