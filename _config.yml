@@ -83,7 +83,7 @@ paginate_path:         /page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/35701506_1935132846517938_8952421413646499840_n3.jpg
-accent_color:          '#FFE0B2'
+accent_color:          '#6D4C41'
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
