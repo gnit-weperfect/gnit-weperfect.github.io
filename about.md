@@ -1,6 +1,6 @@
 ---
 layout: about
-title: From the Principal's Desk
+title: About
 menu: true
 order: 3
 ---
