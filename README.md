@@ -1,13 +1,23 @@
 # GNIT WePerfect
 
-**GNIT WePerfect** is an e-learning and video-conferencing platform developed by Guru Nanak Institute of Technology college, kolkata.
+**GNIT WePerfect** is an e-learning and video-conferencing platform developed by Guru Nanak Institute of Technology college, Kolkata.
 
-It uses the Jitsi Meet platform to deliver the best e-learning and video-conferencing experience to the students.
+
+It uses the Jitsi Meet platform to deliver the best video-conferencing experience to the students.
    
 Here are some of the features of the Jitsi Meet platform, which has made it a platfrom of choice.
 
    * It is 100% encrypted, so all communications passing through it are secure.
+
    * It is completely open-source, which increases the possibility of security vulnerabilities getting spotted and fixed.
+
    * It doesn't require an account to use the platform, which means greater privacy for the users.
 
-The website is based on the HydeJack.
+
+For e-learning Moodle is used, which is one of the best open-source learning management system (lms) available.
+ 
+
+The links to the respective features of the platform is available in the [official website](https://gnit-weperfect.github.io)
+
+
+(The website is based on the HydeJack).
