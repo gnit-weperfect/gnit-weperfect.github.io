@@ -1,11 +1,14 @@
 ---
 layout: author
+menu: true
 title: GNIT WePerfect ~ E-learning
 ---
 
-To access the feature visit [here](https://gnitweperfect.gnomio.com).
+### To access the feature visit [here](https://gnitweperfect.gnomio.com).
 
-![alt text](https://i.imgur.com/Q1jcrlU.png)
+---
+
+![alt text](https://i.imgur.com/p6LI9xz.png)
   
 
 
