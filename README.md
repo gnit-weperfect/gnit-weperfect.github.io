@@ -1,6 +1,6 @@
 # GNIT WePerfect
 
-**GNIT WePerfect** is an e-learning and video-conferencing platform developed by Guru Nanak Institute of Technology college, Kolkata.
+**GNIT WePerfect** is an E-learning and Video-conferencing platform developed by Guru Nanak Institute of Technology college, Kolkata.
 
 
 ![alt text](https://i.imgur.com/j8Yll6A.png)
