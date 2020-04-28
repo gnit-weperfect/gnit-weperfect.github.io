@@ -1,5 +1,5 @@
 ---
-layout: author
+layout: page
 menu: true
 title: GNIT WePerfect ~ E-learning
 ---
