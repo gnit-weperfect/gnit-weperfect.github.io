@@ -59,7 +59,7 @@ menu:
   - title:             From the Principal's Desk
     url:               /principal/
   - title:             GNIT  WePerfect ~ Webinar
-  - url:               /gnit-weperfect-webinar/
+    url:               /gnit-weperfect-webinar/
   - title:             Gnit Weperfect ~ Conference
     url:               /gnit-weperfect-confer/
   - title:             Gnit Weperfect ~ E-learning
