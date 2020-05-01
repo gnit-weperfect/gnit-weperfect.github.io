@@ -64,6 +64,8 @@ menu:
     url:               /gnit-weperfect-confer/
   - title:             Gnit Weperfect ~ E-learning
     url:               /gnit-weperfect-elearn/
+  - title:             GNIT Weperfect ~ Whiteboard
+    url:               /gnit-weperfect-whiteboard/
   - title:             GNIT Website
     url:               https://gnit.ac.in
 
