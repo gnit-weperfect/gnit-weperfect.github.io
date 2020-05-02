@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GNIT WePerfect ~ Webinar
+title: From the Principal's Desk
 ---
 
 
