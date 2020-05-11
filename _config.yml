@@ -57,13 +57,13 @@ menu:
   - title:             From the Principal's Desk
     url:               /principal/
   - title:             GNIT  DigiConclave ~ Webinar
-    url:               /gnit-weperfect-webinar/
+    url:               /webinar/
   - title:             Gnit DigiConclave ~ Conference
     url:               /vidconfer/
   - title:             Gnit DigiConclave ~ E-learning
-    url:               /gnit-weperfect-elearn/
+    url:               /elearn/
   - title:             GNIT DigiConclave ~ Whiteboard
-    url:               /gnit-weperfect-whiteboard/
+    url:               /whiteboard/
   - title:             GNIT Website
     url:               https://gnit.ac.in
 
