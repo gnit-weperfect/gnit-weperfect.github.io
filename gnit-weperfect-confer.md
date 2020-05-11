@@ -3,7 +3,10 @@ layout: list
 title: GNIT WePerfect ~ Conference
 ---
 
-<iframe width="100%" height="1024" src="https://meet.jit.si" allow="microphone; camera" allowfullscreen="allowfullscreen"/></iframe>
+## Please Visit https://vidconfer.gnitdigiconclave.com Or Access The Feature From This Page 
+
+
+<iframe width="100%" height="1024" src="https://vidconfer.gnitdigiconclave.com" allow="microphone; camera" allowfullscreen="allowfullscreen"/></iframe>
   
 
 
