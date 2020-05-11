@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GNIT WePerfect ~ Webinar
+title: GNIT DigiConclave ~ Webinar
 ---
 
 # Webinar Rooms
