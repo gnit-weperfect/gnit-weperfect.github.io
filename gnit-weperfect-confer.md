@@ -1,6 +1,6 @@
 ---
 layout: list
-title: GNIT WePerfect ~ Conference
+title: GNIT DigiConclave ~ Conference
 ---
 
 ## Please Visit https://vidconfer.gnitdigiconclave.com Or Access The Feature From This Page 
