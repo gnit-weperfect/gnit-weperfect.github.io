@@ -50,7 +50,7 @@ sup {
     > li {
       padding: .5rem;
       margin-left: .5rem;
-      > p { margin: 0; }
+      > p { margin: 0; display: none}
       &:focus {
         outline: none;
         color: var(--gray-text);
