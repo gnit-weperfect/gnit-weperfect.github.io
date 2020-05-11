@@ -25,6 +25,7 @@ main > footer {
 
   > p {
     margin-bottom: 0;
+    display: none;
   }
 
   @media screen and (min-width: $break-point-3) {
