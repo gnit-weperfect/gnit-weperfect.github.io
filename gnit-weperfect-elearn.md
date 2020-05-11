@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: true
-title: GNIT WePerfect ~ E-learning
+title: GNIT DigiConclave ~ E-learning
 ---
 
 # To access the feature visit [here](https://gnitweperfect.gnomio.com).
