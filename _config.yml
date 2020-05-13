@@ -40,7 +40,7 @@ keywords:              [gnit, digiconclave]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  https://i.imgur.com/SpuOWoc.png
+logo:                  https://i.imgur.com/YjjDhIg.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -54,7 +54,7 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             From the Principal's Desk
+  - title:             From the Developer's Desk
     url:               /principal/
   - title:             GNIT  DigiConclave ~ Webinar
     url:               /webinar/
