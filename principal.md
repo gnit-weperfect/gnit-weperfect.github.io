@@ -20,3 +20,24 @@ HOD, CSE Department, GNIT
 
 ## Mrs. Pallabi Das
 Project Mentor
+
+
+## Developers'
+
+
+![alt text](https://i.imgur.com/JRl3d8c.jpg)
+
+
+Somnath Nath
+
+
+![alt text](https://i.imgur.com/ErpMliY.jpg)
+
+
+Soumyajeet Kabi
+
+
+![alt text](https://i.imgur.com/TT6iRD3.jpg?1)
+
+
+Subhaditya  Banerji
