@@ -31,7 +31,13 @@ Project Mentor
 Somnath Nath
 
 
-![alt text](https://i.imgur.com/yFn2J8t.jpg)
+![alt text](https://i.imgur.com/ErpMliY.jpg)
 
 
 Soumyajeet Kabi
+
+
+![alt text](https://i.imgur.com/yFn2J8t.jpg)
+
+
+Subhaditya Banerji
