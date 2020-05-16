@@ -32,7 +32,7 @@ Somnath Nath
 Soumyajeet Kabi
 
 
-![alt text](https://i.imgur.com/yFn2J8t.jpg)
+![alt text](https://i.imgur.com/9bCVEqT.jpg)
 
 
 Subhaditya Banerji
