@@ -26,7 +26,7 @@ title: From the Developers' Desk
 Somnath Nath
 
 
-![alt text](https://i.imgur.com/ErpMliY.jpg)
+![alt text](https://i.imgur.com/tMF6Zyo.jpg)
 
 
 Soumyajeet Kabi
