@@ -8,10 +8,10 @@ title: From the Developers' Desk
 
 
 
-![alt text](https://i.imgur.com/WUMQ7hL.jpg)
+![alt text](https://i.imgur.com/dpLFJtu.jpg)
 
 ## Mrs. Pallabi Das
-Project Mentor
+## Project Mentor
 
 
 ---
