@@ -1,6 +1,6 @@
 ---
 layout: page
-title: From the Principal's Desk
+title: From the Developers' Desk
 ---
 
 
@@ -8,3 +8,15 @@ title: From the Principal's Desk
 
 ## Professor Dr. Santanu Kr. Sen
 Principal, GNIT 
+
+
+![alt text](https://i.imgur.com/zpoGhEC.jpg)
+
+## Mrs. Ipsita Saha
+HOD, CSE Department, GNIT 
+
+
+![alt text](https://i.imgur.com/WUMQ7hL.jpg)
+
+## Mrs. Pallabi Das
+Project Mentor
