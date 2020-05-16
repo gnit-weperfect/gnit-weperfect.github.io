@@ -62,8 +62,8 @@ menu:
     url:               /vidconfer/
   - title:             Gnit DigiConclave ~ E-learning
     url:               /elearn/
-  - title:             GNIT DigiConclave ~ Whiteboard
-    url:               /whiteboard/
+  - title:             GNIT DigiConclave ~ Smartboard
+    url:               /smartboard/
   - title:             GNIT Website
     url:               https://gnit.ac.in
 
