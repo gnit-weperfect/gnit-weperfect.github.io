@@ -35,9 +35,3 @@ Somnath Nath
 
 
 Soumyajeet Kabi
-
-
-![alt text](https://i.imgur.com/TT6iRD3.jpg?1)
-
-
-Subhaditya  Banerji
