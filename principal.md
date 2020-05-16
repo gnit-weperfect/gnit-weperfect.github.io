@@ -20,19 +20,19 @@ title: From the Developers' Desk
 ## Developers'
 
 
-![alt text](https://i.imgur.com/JRl3d8c.jpg)
+![alt text](https://i.imgur.com/tMF6Zyo.jpg)
 
 
 Somnath Nath
 
 
-![alt text](https://i.imgur.com/tMF6Zyo.jpg)
+![alt text](https://i.imgur.com/ck9SaPo.jpg)
 
 
 Soumyajeet Kabi
 
 
-![alt text](https://i.imgur.com/ck9SaPo.jpg)
+![alt text](https://i.imgur.com/PmMcdrP.jpg)
 
 
 Subhaditya Banerji
