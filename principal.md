@@ -4,16 +4,8 @@ title: From the Developers' Desk
 ---
 
 
-![alt text](https://i.imgur.com/tIulkrO.png)
+![alt text](https://i.imgur.com/ysQnba8.jpg)
 
-## Professor Dr. Santanu Kr. Sen
-Principal, GNIT 
-
-
-![alt text](https://i.imgur.com/zpoGhEC.jpg)
-
-## Mrs. Ipsita Saha
-HOD, CSE Department, GNIT 
 
 
 ![alt text](https://i.imgur.com/WUMQ7hL.jpg)
