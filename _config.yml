@@ -58,9 +58,9 @@ menu:
     url:               /principal/
   - title:             GNIT  DigiConclave ~ Webinar
     url:               /webinar/
-  - title:             Gnit DigiConclave ~ Conference
+  - title:             GNIT DigiConclave ~ Conference
     url:               /vidconfer/
-  - title:             Gnit DigiConclave ~ E-learning
+  - title:             GNIT DigiConclave ~ E-learning
     url:               /elearn/
   - title:             GNIT DigiConclave ~ Smartboard
     url:               /smartboard/
