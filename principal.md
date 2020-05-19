@@ -14,7 +14,7 @@ title: From the Developers' Desk
 ## Project Mentor
 
 
-**GNIT DigiConclave is a Webinar, Video-conferencing, E-learning and Online Collaborative Whiteboard solution developed by Guru Nanak Institute of Technology, Kolkata.
+### GNIT DigiConclave is a Webinar, Video-conferencing, E-learning and Online Collaborative Whiteboard solution developed by Guru Nanak Institute of Technology, Kolkata.
 
 ---
 
