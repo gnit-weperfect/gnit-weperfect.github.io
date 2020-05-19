@@ -4,7 +4,7 @@ title: From the Developers' Desk
 ---
 
 
-![alt text](https://i.imgur.com/ysQnba8.jpg)
+![alt text](https://i.imgur.com/9eNIt47.png)
 
 
 
