@@ -64,6 +64,8 @@ menu:
     url:               /elearn/
   - title:             GNIT DigiConclave ~ Smartboard
     url:               /smartboard/
+  - title:             GNIT DigiConclave ~ Smartphone Support
+    url:               /smartphone-support/
   - title:             GNIT Website
     url:               https://gnit.ac.in
 
